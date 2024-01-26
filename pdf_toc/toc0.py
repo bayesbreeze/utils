@@ -1,4 +1,4 @@
-import fitz
+import fitz 
 
 # Create a new PDF and add pages
 doc = fitz.open()
